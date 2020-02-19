@@ -75,3 +75,25 @@ body {
   color: red;
   text-align: center;
 }
+.save-button2 {
+  position: absolute;
+  top: 43px;
+  right: 95px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+  text-decoration: none;
+}
+.save-button3 {
+  position: absolute;
+  top: 43px;
+  right: 215px;
+  border: 1px solid grey;
+  padding: 5px 10px;
+  background-color: lightseagreen;
+  text-decoration: none;
+}
+.link {
+  text-decoration: none;
+  color: black;
+}
